@@ -1,2 +1,2 @@
 # Design-Patterns-Project
-COS 121 Project (Command-line based)
+COS 121 Project 2015 (Command-line based)
